@@ -1,0 +1,11 @@
+community_area_name,community_aggregate_scores,community_area_number,percent_of_housing_crowded,percent_households_below_poverty,percent_aged_16_unemployed,percent_aged_25_without_high_school_diploma,percent_aged_under_18_or_over_64,per_capita_income,hardship_index
+Forest Glen,75.77777777777779,12,1.1,7.5,6.8,4.9,40.5,44164,11
+North Center,68.41666666666667,5,0.3,7.5,5.2,4.5,26.2,57123,6
+Mount Greenwood,68.33333333333334,74,1,3.4,8.7,4.3,36.8,34381,16
+Edison Park,64.66666666666667,9,1.1,3.3,6.5,7.4,35.3,40959,8
+Clearing,64.22222222222223,64,2.7,8.9,9.5,18.8,37.6,25113,29
+Norwood Park,63.77777777777778,10,2,5.4,9,11.5,39.5,32875,21
+Lincoln Park,63.6,7,0.8,12.3,5.1,3.6,21.5,71551,2
+North Park,62.66666666666667,13,3.9,13.2,9.9,14.4,39,26576,33
+West Ridge,61.95833333333333,2,7.8,17.2,8.8,20.8,38.5,23040,46
+Hermosa,61.66666666666667,20,6.9,20.5,13.1,41.6,36.4,15089,71

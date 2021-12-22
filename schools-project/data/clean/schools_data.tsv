@@ -1,0 +1,402 @@
+name_of_school	safety_score	environment_score	instruction_score	average_student_attendance	rate_of_misconducts_per_100_students	average_teacher_attendance	community_area_number	individualized_education_program_compliance_rate	college_enrollment_number_of_students	aggregate_score	prenatal_care_beginning_in_first_trimester	teen_birth_rate	assault_homicide	unemployment	community_area_name	percent_of_housing_crowded	percent_households_below_poverty	percent_aged_16_unemployed	percent_aged_25_without_high_school_diploma	percent_aged_under_18_or_over_64	per_capita_income	hardship_index
+Charles G Hammond Elementary School	40	41	43	95.3	8.5	95.2	30	92	446	0.41333333333333333	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Marvin Camras Elementary School	54	37	41	95.1	4.3	0	19	97.7	826	0.44	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Eliza Chappell Elementary School	70	53	51	95.1	2.9	96.7	4	98.9	451	0.58	80.5	38.4	5	6.8	Lincoln Square	3.4	10.9	8.2	13.4	25.5	37524	17
+Sir Miles Davis Magnet Elementary Academy	35	51	54	93	57.8	94.5	67	100	354	0.4666666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Luther Burbank Elementary School	37	42	34	95.2	9.8	95.5	19	100	1139	0.37666666666666665	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Lenart Elementary Regional Gifted Center	79	51	67	97.4	0.3	97.8	44	100	328	0.6566666666666666	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+James N Thorp Elementary School	32	39	39	91.8	45.4	95.9	46	100	449	0.36666666666666664	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+Roswell B Mason Elementary School	37	44	58	92.4	31	95	29	94.5	479	0.4633333333333333	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Ira F Aldridge Elementary School	39	36	39	92.9	49	96.3	54	100	285	0.38	74.1	64.5	33	26.4	Riverdale	5.8	56.5	34.6	27.5	51.5	8201	98
+Abraham Lincoln Elementary School	99	74	66	96	2	96.4	7	95.8	813	0.7966666666666666	75.7	2.1	0.7	4.5	Lincoln Park	0.8	12.3	5.1	3.6	21.5	71551	2
+William Penn Elementary School	78	99	99	91.8	5.7	95.2	29	92.9	423	0.92	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Christopher Columbus Elementary School	66	57	55	95.5	2.4	96.9	24	92.6	309	0.5933333333333334	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Frank W Gunsaulus Elementary Scholastic Academy	46	30	45	96.6	87.3	96	58	100	867	0.4033333333333333	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Washington Irving Elementary School	43	34	44	95.6	15.1	95.9	28	89	482	0.4033333333333333	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Durkin Park Elementary School	61	57	58	95.4	0.7	95.8	70	100	543	0.5866666666666667	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+Henry Clay Elementary School	38	30	30	95.2	6	96.1	55	100	633	0.32666666666666666	66.9	47.1	6.9	9.6	Hegewisch	3.3	17.1	9.6	19.2	42.9	22677	44
+John Fiske Elementary School	13	37	55	92.9	37.1	91.7	42	91.4	254	0.35	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+Joseph E Gary Elementary School	32	29	28	96.1	16.8	96.2	30	100	1204	0.2966666666666667	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Richard J Daley Elementary Academy	29	37	46	94.9	44.2	96	61	98.4	797	0.37333333333333335	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Edison Park Elementary School	95	52	49	96.1	6.9	96.6	10	98.6	431	0.6533333333333333	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+James Madison Elementary School	39	32	28	94.9	12.4	97.7	43	100	317	0.33	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+Pilsen Elementary Community Academy	43	49	55	96	9.4	96.7	31	100	447	0.49	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+John Calhoun North Elementary School	52	44	54	95.9	4.6	96.5	27	98.1	328	0.5	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Granville T Woods Math & Science Academy Elementary School	35	43	31	91.9	41.5	95.2	67	100	402	0.36333333333333334	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Alexander Graham Bell Elementary School	99	64	46	96.3	6.3	95.9	5	99.3	998	0.6966666666666667	80.4	8.4	1	4.5	North Center	0.3	7.5	5.2	4.5	26.2	57123	6
+Willa Cather Elementary School	69	78	81	94.9	29.5	96.4	27	100	234	0.76	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Theophilus Schmid Elementary School	46	31	53	92.1	67.1	96.3	50	100	185	0.43333333333333335	81.3	67.9	32.2	21	Pullman	1.5	21.6	22.8	13.1	38.6	20588	51
+Salmon P Chase Elementary School	55	59	39	95.4	18.5	95.8	22	98.6	504	0.51	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Louis A Agassiz Elementary School	53	23	21	95.2	32.6	96.8	6	98.1	432	0.3233333333333333	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+William C Reavis Math & Science Specialty Elementary School	48	37	26	93.5	37.2	94.8	39	98.2	311	0.37	77.6	25.7	15.2	11	Kenwood	2.4	21.7	15.7	11.3	35.4	35911	26
+Fairfield Elementary Academy	31	41	34	93.4	43.4	93.3	66	98.6	604	0.35333333333333333	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Frederic Chopin Elementary School	86	99	99	96.9	1.7	96	24	100	269	0.9466666666666667	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Ninos Heroes Elementary Academic Center	36	61	55	93.9	25.9	95	46	100	435	0.5066666666666667	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+George B McClellan Elementary School	49	33	40	93.2	7.8	96	60	98.6	283	0.4066666666666667	80.3	28.4	4.9	11.2	Bridgeport	4.5	18.9	13.7	22.2	31.3	22694	43
+Oriole Park Elementary School	99	88	71	96.5	2.3	95.5	10	98.4	648	0.86	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+Andrew Carnegie Elementary School	48	37	63	94.6	6.2	94.4	42	100	730	0.49333333333333335	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+John L Marsh Elementary School	72	53	39	95.7	5.4	95.5	51	99.1	841	0.5466666666666666	76.9	65.3	41.3	11.8	South Deering	4	29.2	16.3	21	39.5	14685	65
+John Whistler Elementary School	45	41	28	92.4	11.1	97	53	100	375	0.38	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+Kate S Buckingham Special Education Center	31	24	20	83.4	116.9	94.4	48	100	26	0.25	75	39.3	19.5	17.2	Calumet Heights	2.1	11.5	20	11	44	28887	38
+Phillip D Armour Elementary School	36	34	14	93.9	16	95.8	60	98	365	0.28	80.3	28.4	4.9	11.2	Bridgeport	4.5	18.9	13.7	22.2	31.3	22694	43
+Asa Philip Randolph Elementary School	15	41	48	92.1	43.5	95.3	67	95.6	573	0.3466666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Andrew Jackson Elementary Language Academy	86	57	46	97.4	0.7	96.1	28	100	556	0.63	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Jane Addams Elementary School	56	44	46	96	5	96.8	52	100	928	0.4866666666666667	73.3	53	10.7	14.5	East Side	6.8	19.2	12.1	31.9	42.8	17104	64
+Alex Haley Elementary Academy	28	58	60	94.9	2.9	94.7	49	94.7	525	0.4866666666666667	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+George Armstrong International Studies Elementary School	59	59	64	96.3	8.1	96.3	2	99.4	1509	0.6066666666666667	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Thomas Drummond Elementary School	72	59	46	95.2	0.3	96.7	22	97.5	352	0.59	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Douglas Taylor Elementary School	34	20	1	95.1	16.6	94.3	52	100	632	0.18333333333333332	73.3	53	10.7	14.5	East Side	6.8	19.2	12.1	31.9	42.8	17104	64
+Edward Coles Elementary Language Academy	22	40	54	95.1	24.9	95	46	98.7	554	0.38666666666666666	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+Louis Pasteur Elementary School	50	42	38	95	5	95.8	62	97.3	1173	0.43333333333333335	81.2	45.5	5.9	13.5	West Elsdon	11.1	15.6	16.7	37	37.7	15754	69
+Amelia Earhart Options for Knowledge Elementary School	81	60	73	96.3	33.4	95.4	48	100	264	0.7133333333333334	75	39.3	19.5	17.2	Calumet Heights	2.1	11.5	20	11	44	28887	38
+Oscar DePriest Elementary School	35	47	53	92.7	20	95.6	25	94.1	524	0.45	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Countee Cullen Elementary School	14	28	34	94.1	36.9	96.3	49	100	233	0.25333333333333335	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+John H Kinzie Elementary School	64	49	54	95.4	14.9	95.3	56	99.1	733	0.5566666666666666	81.7	33.7	9.9	8.1	Garfield Ridge	2.6	8.8	11.3	19.3	38.1	26353	32
+Oliver Wendell Holmes Elementary School	21	23	41	87	139.8	92.4	68	97.9	334	0.2833333333333333	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Langston Hughes Elementary School	28	16	30	90	27.5	95.5	49	100	424	0.24666666666666667	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Richard Henry Lee Elementary School	59	46	35	95	21.8	95.3	65	96.1	832	0.4666666666666667	83.5	44.6	10.7	7.8	West Lawn	5.8	14.9	9.6	33.6	39.6	16907	56
+Burnham Elementary Inclusive Academy	61	85	99	95.5	29.4	96.9	51	96	286	0.8166666666666667	76.9	65.3	41.3	11.8	South Deering	4	29.2	16.3	21	39.5	14685	65
+Josiah Pickard Elementary School	50	35	37	95.8	5.1	96.4	31	100	656	0.4066666666666667	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Charles S Deneen Elementary School	55	49	51	93.8	39.5	97.1	69	100	551	0.5166666666666667	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+Jensen Elementary Scholastic Academy	35	42	67	93.1	17.2	95.3	27	100	364	0.48	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Anthony Overton Elementary School	32	64	76	90.5	24.9	94.9	38	100	436	0.5733333333333334	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+Helge A Haugan Elementary School	43	57	49	96.2	23.4	94.6	14	100	1299	0.49666666666666665	73.3	44.5	4.7	9	Albany Park	11.3	19.2	10	32.9	32	21323	53
+Scott Joplin Elementary School	35	44	53	95	44.5	94.6	71	97.7	538	0.44	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Stone Elementary Scholastic Academy	78	55	43	96.4	1.9	96	2	100	646	0.5866666666666667	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Francis Parkman Elementary School	38	45	39	90.6	20.7	95.3	37	100	224	0.4066666666666667	71.4	69.2	49.6	40	Fuller Park	3.2	51.2	33.9	26.6	44.9	10432	97
+Rachel Carson Elementary School	38	45	56	97.6	3.9	97.7	63	100	1222	0.4633333333333333	80.4	61.4	10.8	14	Gage Park	15.8	23.4	18.2	51.5	38.8	12171	93
+Kate S Kellogg Elementary School	76	57	63	96.3	12	95.4	72	91.8	283	0.6533333333333333	84.8	11.9	3.5	7.8	Beverly	0.9	5.1	8	3.7	40.5	39523	12
+Melville W Fuller Elementary School	22	32	33	91.8	40.2	93.9	38	100	241	0.29	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+James Shields Elementary School	38	57	58	97	13.9	97	58	99.6	1834	0.51	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Dewey Elementary Academy of Fine Arts	41	42	35	90.7	26.3	95.5	61	100	357	0.3933333333333333	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Isabelle C O'Keeffe Elementary School	17	28	29	92.1	24.6	94.6	43	100	575	0.24666666666666667	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+Edmond Burke Elementary School	1	13	22	89.3	82	95.5	40	96.7	244	0.12	74.9	82.6	44.6	23.2	Washington Park	5.6	42.1	28.6	25.4	42.8	13785	88
+Virgil Grissom Elementary School	62	51	64	95.5	2.5	96.4	55	100	330	0.59	66.9	47.1	6.9	9.6	Hegewisch	3.3	17.1	9.6	19.2	42.9	22677	44
+Lyman A Budlong Elementary School	59	33	38	95.4	3.9	95.7	4	98.7	864	0.43333333333333335	80.5	38.4	5	6.8	Lincoln Square	3.4	10.9	8.2	13.4	25.5	37524	17
+Manuel Perez Elementary School	45	42	45	95.9	7.3	96.6	31	100	426	0.44	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Carl von Linne Elementary School	68	66	75	95.8	1.8	96.3	21	100	644	0.6966666666666667	74.4	63.4	4.7	9.3	Avondale	6	15.3	9.2	24.7	31	20039	42
+Henry R Clissold Elementary School	45	39	61	95.1	8.4	96.9	75	94.8	588	0.48333333333333334	74.5	46.7	19.9	14.9	Morgan Park	0.8	13.2	15	10.8	40.3	27149	30
+Johnnie Colemon Elementary Academy	60	56	63	95.9	23.4	95.4	53	100	266	0.5966666666666667	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+National Teachers Elementary Academy	67	65	60	94.7	9.2	96.3	33	100	446	0.64	78.1	50.9	4.8	5.7	Near South Side	1.3	13.8	4.9	7.4	21.8	59077	7
+Clara Barton Elementary School	25	28	34	91.7	25.3	96.4	71	100	602	0.29	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Elaine O Goodlow Elementary Magnet School	44	52	56	91.6	47.5	96	67	100	419	0.5066666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Dvorak Technology Academy	46	66	69	94.2	4.4	95.4	29	100	556	0.6033333333333334	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+James B McPherson Elementary School	71	48	38	96.5	1.2	96.3	4	100	695	0.5233333333333333	80.5	38.4	5	6.8	Lincoln Square	3.4	10.9	8.2	13.4	25.5	37524	17
+Adam Clayton Powell Paideia Community Academy Elementary School	54	74	84	95.6	15.7	95.3	43	100	521	0.7066666666666667	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+John A Walsh Elementary School	60	70	91	95.1	2.9	95.3	31	97	501	0.7366666666666667	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Thomas J Waters Elementary School	85	56	54	96.1	0.4	95.1	4	100	590	0.65	80.5	38.4	5	6.8	Lincoln Square	3.4	10.9	8.2	13.4	25.5	37524	17
+Wendell Smith Elementary School	22	1	1	92.1	90	94.1	50	95.2	363	0.08	81.3	67.9	32.2	21	Pullman	1.5	21.6	22.8	13.1	38.6	20588	51
+Joseph Lovett Elementary School	43	32	22	95.4	16.1	95.4	25	100	490	0.3233333333333333	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Joseph Brennemann Elementary School	50	55	59	96.5	13.7	97.7	3	96.7	362	0.5466666666666666	77.7	35.1	5.4	7.7	Uptown	3.8	24	8.9	11.8	22.2	35787	20
+John M Smyth Elementary School	37	54	64	92.4	20.1	93.3	28	100	475	0.5166666666666667	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Inter-American Elementary Magnet School	67	50	51	96.2	3	96.2	6	100	690	0.56	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Richard Yates Elementary School	42	66	73	93.7	5.6	96.2	22	98.6	690	0.6033333333333334	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+James Monroe Elementary School	45	26	22	95.1	22.1	95.8	22	98.1	1125	0.31	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Mildred I Lavizzo Elementary School	15	41	46	91.5	39.1	95	49	95.7	394	0.34	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+John C Burroughs Elementary School	50	39	38	95.6	0.2	96.1	58	100	510	0.42333333333333334	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+West Pullman Elementary School	23	55	47	91.2	7.6	93.8	53	100	343	0.4166666666666667	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+William H Prescott Elementary School	90	51	24	93.5	73.9	97.6	7	95	240	0.55	75.7	2.1	0.7	4.5	Lincoln Park	0.8	12.3	5.1	3.6	21.5	71551	2
+Graeme Stewart Elementary School	49	46	57	95.2	77	96.1	3	100	280	0.5066666666666667	77.7	35.1	5.4	7.7	Uptown	3.8	24	8.9	11.8	22.2	35787	20
+Milton Brunson Math & Science Specialty Elementary School	30	30	45	91.3	16.6	95	25	100	658	0.35	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Henry O Tanner Elementary School	33	42	55	91.8	43.1	95.6	69	98	448	0.43333333333333335	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+Mary E Courtenay Elementary Language Arts Center	99	95	80	94.9	10.8	94.2	6	100	257	0.9133333333333333	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+William A Hinton Elementary School	18	30	29	91.7	28.9	95.1	68	100	321	0.25666666666666665	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Daniel S Wentworth Elementary School	30	34	36	91.6	73.8	95.9	68	96.2	365	0.3333333333333333	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Leslie Lewis Elementary School	21	36	64	91.8	37.7	95.3	25	98.6	565	0.4033333333333333	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Jonathan Burr Elementary School	71	68	51	95.9	4.3	96.9	24	100	348	0.6333333333333333	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Jean D Lafayette Elementary School	44	43	38	94.1	14.3	96.3	24	98.6	474	0.4166666666666667	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Lyman Trumbull Elementary School	56	47	25	94.3	17.8	95.2	77	97.7	438	0.4266666666666667	76.1	15.1	5.8	9	Edgewater	4.1	18.2	9.2	9.7	23.8	33385	19
+A.N. Pritzker School	59	58	61	94.6	36.5	95.6	24	98.5	669	0.5933333333333334	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Ashburn Community Elementary School	48	52	40	95.5	28.5	97.1	70	100	490	0.4666666666666667	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+William T Sherman Elementary School	32	46	55	92.3	230.6	95	61	100	462	0.44333333333333336	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Nathan Hale Elementary School	55	51	56	94.5	9.8	96.2	64	96.5	872	0.54	85.8	38.7	9.4	9.6	Clearing	2.7	8.9	9.5	18.8	37.6	25113	29
+John T McCutcheon Elementary School	56	67	41	94	8.8	94.8	3	98.1	355	0.5466666666666666	77.7	35.1	5.4	7.7	Uptown	3.8	24	8.9	11.8	22.2	35787	20
+Park Manor Elementary School	28	42	48	94.9	16.6	96.3	69	100	352	0.3933333333333333	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+George Rogers Clark Elementary School	39	32	36	93.9	14.4	96.4	25	100	297	0.3566666666666667	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+North River Elementary School	67	53	51	95.6	20.1	96	14	100	359	0.57	73.3	44.5	4.7	9	Albany Park	11.3	19.2	10	32.9	32	21323	53
+Paul Revere Elementary School	36	42	56	92.4	33.3	94.6	69	89.3	320	0.44666666666666666	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+John F Eberhart Elementary School	42	33	34	95.3	13.1	95.6	66	100	1777	0.36333333333333334	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Elizabeth Peabody Elementary School	51	50	61	95.2	7.6	97	24	100	289	0.54	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Francis Scott Key Elementary School	37	49	64	91.9	39.6	94	25	100	301	0.5	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Arthur A Libby Elementary School	36	60	60	90.8	21.6	95.1	61	100	539	0.52	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Columbia Explorers Elementary Academy	59	59	63	95.4	8.9	97.1	58	100	1038	0.6033333333333334	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Rosario Castellanos Elementary School	36	34	20	96.3	24.3	96.9	30	100	525	0.3	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+George W Curtis Elementary School	23	43	58	93.8	18.2	98.1	49	97.9	504	0.41333333333333333	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Mark Twain Elementary School	67	46	44	96.3	5.3	97.8	56	98.3	1161	0.5233333333333333	81.7	33.7	9.9	8.1	Garfield Ridge	2.6	8.8	11.3	19.3	38.1	26353	32
+Cesar E Chavez Multicultural Academic Center Elementary School	54	63	52	95.1	11.1	96.1	61	100	915	0.5633333333333334	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Philip Rogers Elementary School	81	68	62	96.4	3	95.1	2	100	735	0.7033333333333334	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Daniel Boone Elementary School	52	47	48	95.5	10.5	95.4	2	97.6	752	0.49	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Washington D Smyser Elementary School	55	43	45	95.5	4.9	97.2	15	96.6	1047	0.4766666666666667	79.8	41.7	3.3	10.6	Portage Park	4.1	11.6	12.6	19.3	34	24336	35
+Robert Nathaniel Dett Elementary School	48	51	65	94.4	6.9	94.8	28	100	250	0.5466666666666666	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+William J & Charles H Mayo Elementary School	52	62	65	95.3	26	95.2	35	100	453	0.5966666666666667	76	34.2	13.6	16.7	Douglas	1.8	29.6	18.2	14.3	30.7	23791	47
+Robert Fulton Elementary School	46	63	63	95.1	10.1	96.8	61	100	466	0.5733333333333334	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+John H Vanderpoel Elementary Magnet School	74	24	31	97.2	0.3	96.2	72	100	317	0.43	84.8	11.9	3.5	7.8	Beverly	0.9	5.1	8	3.7	40.5	39523	12
+Walter Q Gresham Elementary School	25	7	11	95.5	35.4	95	71	100	359	0.14333333333333334	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Ferdinand Peck Elementary School	51	43	47	96.3	1.2	97.2	62	96.9	1560	0.47	81.2	45.5	5.9	13.5	West Elsdon	11.1	15.6	16.7	37	37.7	15754	69
+Nicholson Technology Academy	48	74	73	93.4	6	97	68	100	464	0.65	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Alessandro Volta Elementary School	43	28	37	96.4	22.5	95.9	14	100	1023	0.36	73.3	44.5	4.7	9	Albany Park	11.3	19.2	10	32.9	32	21323	53
+Bret Harte Elementary School	63	77	76	94.2	17.9	95.4	41	98.5	340	0.72	80.3	7.6	5.8	6.9	Hyde Park	1.5	18.4	8.4	4.3	26.2	39056	14
+Maria Saucedo Elementary Scholastic Academy	60	55	64	96.8	19.4	96.9	30	98.9	1306	0.5966666666666667	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Franklin Elementary Fine Arts Center	87	60	55	95.9	5.6	95.3	8	100	363	0.6733333333333333	69.7	34	3.7	5.2	Near North Side	1.9	12.9	7	2.5	22.6	88669	1
+Ellen Mitchell Elementary School	99	95	95	95.5	12.2	97.7	24	100	344	0.9633333333333334	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Orville T Bright Elementary School	18	28	27	92.2	55.7	95.3	51	100	361	0.24333333333333335	76.9	65.3	41.3	11.8	South Deering	4	29.2	16.3	21	39.5	14685	65
+Donald Morrill Math & Science Elementary School	28	32	39	93.4	19.6	94.8	66	97.3	823	0.33	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Laughlin Falconer Elementary School	54	48	27	96.1	5.7	97	19	99.5	1520	0.43	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Rufus M Hitch Elementary School	64	55	58	95.1	3.7	96.6	10	98.6	542	0.59	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+James Weldon Johnson Elementary School	67	61	75	94.7	1.4	97.5	29	100	365	0.6766666666666666	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Stephen Decatur Classical Elementary School	99	99	99	96.2	2.8	95.4	2	100	289	0.99	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Edward C Delano Elementary School	38	66	52	93.4	20.3	94.7	26	94.7	414	0.52	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Horace Greeley Elementary School	65	48	38	95.9	6	96	6	100	611	0.5033333333333333	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Lorenz Brentano Math & Science Academy Elementary School	57	43	46	94.7	9.2	97.7	22	100	455	0.4866666666666667	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Charles S Brownell Elementary School	20	79	82	92.8	14.1	95.5	69	100	310	0.6033333333333334	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+William K New Sullivan Elementary School	27	35	40	90.3	27.3	94	46	97.8	527	0.34	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+William C Goudy Elementary School	70	74	61	96.1	6	95.8	3	100	805	0.6833333333333333	77.7	35.1	5.4	7.7	Uptown	3.8	24	8.9	11.8	22.2	35787	20
+Stephen F Gale Elementary Community Academy	39	35	27	92.1	34.8	95.2	1	100	532	0.33666666666666667	73	40.8	7.7	7.5	Rogers Park	7.7	23.6	8.7	18.2	27.5	23939	39
+William H Ray Elementary School	69	22	12	95.1	6.7	94.9	41	98.8	654	0.3433333333333333	80.3	7.6	5.8	6.9	Hyde Park	1.5	18.4	8.4	4.3	26.2	39056	14
+Harriet E Sayre Elementary Language Academy	68	41	50	96.2	2.6	96.6	25	100	605	0.53	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Nathaniel Pope Elementary School	48	73	83	91.6	54.2	95.8	29	93.5	200	0.68	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Robert Healy Elementary School	63	54	36	96.6	11.3	97.1	60	99.1	1384	0.51	80.3	28.4	4.9	11.2	Bridgeport	4.5	18.9	13.7	22.2	31.3	22694	43
+Frazier Prospective IB Magnet Elementary School	60	84	72	96.8	7.2	96.6	29	100	220	0.72	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Alexander von Humboldt Elementary School	31	32	45	92.5	185.5	96	24	100	398	0.36	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Edward N Hurley Elementary School	77	50	49	95.4	12.2	94.9	65	96.6	830	0.5866666666666667	83.5	44.6	10.7	7.8	West Lawn	5.8	14.9	9.6	33.6	39.6	16907	56
+Austin O Sexton Elementary School	23	38	34	90.5	8.6	94.1	42	100	337	0.31666666666666665	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+Mary McLeod Bethune Elementary School	53	53	39	93.3	25.8	97.6	27	98	362	0.48333333333333334	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Thomas Chalmers Specialty Elementary School	34	39	45	94.4	3.4	97.3	29	100	288	0.3933333333333333	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Elihu Yale Elementary School	29	43	50	89.7	67.2	97	69	100	182	0.4066666666666667	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+Charles P Caldwell Academy of Math & Science Elementary School	25	40	44	92.7	30.7	94.7	45	100	291	0.36333333333333334	74.5	63.9	22.1	16.6	Avalon Park	1.4	17.2	21.1	10.6	39.3	24454	41
+Edward K Ellington Elementary School	30	37	55	93.3	17.4	97.3	25	98.9	377	0.4066666666666667	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Louis Nettelhorst Elementary School	58	34	30	95.5	5.3	95.9	6	97.9	729	0.4066666666666667	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Irvin C Mollison Elementary School	44	46	38	91.1	36.1	94.3	38	94.4	244	0.4266666666666667	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+James E McDade Elementary Classical School	99	57	52	96.2	0	94.3	44	100	199	0.6933333333333334	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Adlai E Stevenson Elementary School	61	50	36	95.7	2.3	94.7	70	98.3	1324	0.49	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+John Barry Elementary School	35	70	81	95.1	5.6	96.1	20	97.7	800	0.62	77.5	69.7	12.7	12.9	Hermosa	6.9	20.5	13.1	41.6	36.4	15089	71
+Mark Skinner Elementary School	87	48	53	97.1	0	94.9	28	96.7	784	0.6266666666666667	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Guglielmo Marconi Elementary Community Academy	26	65	76	91.5	58.8	96.5	26	100	245	0.5566666666666666	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Joseph Kellman Corporate Community Elementary School	58	42	45	95.2	4.4	95.8	27	100	293	0.48333333333333334	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+William F Finkl Elementary School	56	50	52	95.2	6.7	96.9	31	100	588	0.5266666666666666	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Near North Elementary School	50	27	23	80.2	58.3	94.8	24	98.1	91	0.3333333333333333	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+West Ridge Elementary School	67	41	28	94.9	6.8	0	2	100	659	0.4533333333333333	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+John T Pirie Fine Arts & Academic Center Elementary School	26	63	62	93.5	20.8	95.4	44	100	384	0.5033333333333333	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Norwood Park Elementary School	99	69	68	95.5	0.3	95.6	10	100	359	0.7866666666666666	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+Victor Herbert Elementary School	50	64	72	92.8	10.3	96.2	28	100	398	0.62	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Francis W Parker Elementary Community Academy	30	53	57	91.9	39	94.9	68	98.6	808	0.4666666666666667	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Arnold Mireles Elementary Academy	27	43	54	92.8	11.8	95.2	46	98.9	905	0.41333333333333333	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+Arthur Dixon Elementary School	47	47	52	94.8	32.2	95.6	44	100	652	0.4866666666666667	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Ernst Prussing Elementary School	71	49	42	95.4	23.4	96	15	98.5	672	0.54	79.8	41.7	3.3	10.6	Portage Park	4.1	11.6	12.6	19.3	34	24336	35
+Johann W von Goethe Elementary School	75	68	52	95.8	5.6	97	22	99.1	786	0.65	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Belmont-Cragin Elementary School	75	67	66	95.3	1.3	96.8	19	98.9	634	0.6933333333333334	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Foster Park Elementary School	11	20	22	93.7	33.6	94.7	71	97.1	418	0.17666666666666667	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+John Greenleaf Whittier Elementary School	65	45	24	94.9	3.8	96.5	31	100	409	0.44666666666666666	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Carter G Woodson South Elementary School	26	2	1	91.9	70.5	94.7	38	98.4	329	0.09666666666666666	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+John Spry Elementary Community School	66	70	67	96.2	5.9	97.4	30	99	809	0.6766666666666666	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Alice L Barnard Computer Math & Science Center Elementary School	46	39	58	95.6	28.5	95	72	100	274	0.4766666666666667	84.8	11.9	3.5	7.8	Beverly	0.9	5.1	8	3.7	40.5	39523	12
+Esmond Elementary School	36	49	43	92.9	34	95.7	75	100	342	0.4266666666666667	74.5	46.7	19.9	14.9	Morgan Park	0.8	13.2	15	10.8	40.3	27149	30
+William W Carter Elementary School	13	33	35	91.2	27	95.9	40	100	371	0.27	74.9	82.6	44.6	23.2	Washington Park	5.6	42.1	28.6	25.4	42.8	13785	88
+Frederick Funston Elementary School	16	14	16	94.7	16.8	95.4	22	100	619	0.15333333333333332	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+George M Pullman Elementary School	59	66	75	93.5	14.6	96.2	50	100	259	0.6666666666666666	81.3	67.9	32.2	21	Pullman	1.5	21.6	22.8	13.1	38.6	20588	51
+Amos Alonzo Stagg Elementary School	23	35	42	91.4	34.3	95.5	68	100	539	0.3333333333333333	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+John J Audubon Elementary School	95	75	60	96.2	4.5	96.7	5	98.6	580	0.7666666666666667	80.4	8.4	1	4.5	North Center	0.3	7.5	5.2	4.5	26.2	57123	6
+John Milton Gregory Elementary School	44	39	43	95.2	3.2	94.6	27	100	323	0.42	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Calmeca Academy of Fine Arts and Dual Language	58	59	72	96.5	1.9	96.9	58	100	792	0.63	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Edgar Allan Poe Elementary Classical School	99	66	88	97.6	0	97.2	50	100	192	0.8433333333333334	81.3	67.9	32.2	21	Pullman	1.5	21.6	22.8	13.1	38.6	20588	51
+John Harvard Elementary School of Excellence	51	61	61	93	8.7	96	69	97.8	476	0.5766666666666667	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+Grover Cleveland Elementary School	64	58	47	95	6.1	96.3	16	100	688	0.5633333333333334	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+Jean Baptiste Beaubien Elementary School	63	49	47	95.7	7.4	96.3	11	98.4	1181	0.53	82.9	28.6	4.8	9	Jefferson Park	2.7	8.6	12.4	13.4	35.5	27751	25
+Annie Keller Elementary Gifted Magnet School	99	85	82	97.5	4.9	96.5	74	100	245	0.8866666666666667	94.5	7.7	2.2	6.9	Mount Greenwood	1	3.4	8.7	4.3	36.8	34381	16
+Charles Kozminski Elementary Community Academy	36	35	40	92	55.6	94.4	41	100	403	0.37	80.3	7.6	5.8	6.9	Hyde Park	1.5	18.4	8.4	4.3	26.2	39056	14
+Alexander Hamilton Elementary School	73	60	59	95.3	12.5	97.4	6	97.4	307	0.64	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Ravenswood Elementary School	46	42	41	94.9	8.1	95.7	6	100	465	0.43	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Minnie Mars Jamieson Elementary School	64	62	66	95.7	8.1	96.2	2	100	811	0.64	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+Joseph Stockton Elementary School	37	51	68	94.9	11	95.3	3	100	462	0.52	77.7	35.1	5.4	7.7	Uptown	3.8	24	8.9	11.8	22.2	35787	20
+Emmett Louis Till Math and Science Academy	31	47	40	88	95.7	93.3	42	90.5	471	0.3933333333333333	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+Theodore Herzl Elementary School	41	53	65	90.8	23.9	97	29	96	512	0.53	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Bernhard Moos Elementary School	50	47	32	93	45.5	96.3	24	98.5	429	0.43	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Ronald E McNair Elementary School	31	56	59	90.7	52.8	96.5	25	100	422	0.4866666666666667	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Irma C Ruiz Elementary School	57	57	62	95.5	15.9	95	31	95.2	916	0.5866666666666667	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Galileo Math & Science Scholastic Academy Elementary School	65	40	42	95	3.1	97	28	100	606	0.49	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Mahalia Jackson Elementary School	38	54	66	92.5	35.7	94.6	71	96.6	323	0.5266666666666666	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+William E Dever Elementary School	67	60	78	95.5	2.1	95.9	17	100	843	0.6833333333333333	82.7	19.9	3.7	8.6	Dunning	5.2	10.6	10	16.2	33.6	26282	28
+Christian Ebinger Elementary School	78	66	50	95.9	9.3	95.2	9	97	650	0.6466666666666666	86.6	3.9	0	7.4	Edison Park	1.1	3.3	6.5	7.4	35.3	40959	8
+Florence Nightingale Elementary School	35	40	48	95.6	9.4	95.8	63	99.4	1382	0.41	80.4	61.4	10.8	14	Gage Park	15.8	23.4	18.2	51.5	38.8	12171	93
+George F Cassell Elementary School	76	57	36	94.4	13.8	95.1	74	98.9	358	0.5633333333333334	94.5	7.7	2.2	6.9	Mount Greenwood	1	3.4	8.7	4.3	36.8	34381	16
+Dumas Technology Academy	19	25	49	92.5	38.4	95.6	42	98.1	381	0.31	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+Henry H Nash Elementary School	41	68	76	95.1	27.9	95.8	25	100	393	0.6166666666666667	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+John D Shoop Math-Science Technical Academy Elementary School	32	43	51	93.2	40.8	96.3	75	86.9	553	0.42	74.5	46.7	19.9	14.9	Morgan Park	0.8	13.2	15	10.8	40.3	27149	30
+Chicago Academy Elementary School	66	40	22	96.3	6	96.1	17	100	601	0.4266666666666667	82.7	19.9	3.7	8.6	Dunning	5.2	10.6	10	16.2	33.6	26282	28
+Michael Faraday Elementary School	35	65	66	93.3	39.4	94.6	27	100	194	0.5533333333333333	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Ida B Wells Preparatory Elementary Academy	49	64	93	93.2	9.5	92.8	35	100	215	0.6866666666666666	76	34.2	13.6	16.7	Douglas	1.8	29.6	18.2	14.3	30.7	23791	47
+Marquette Elementary School	15	17	17	93.1	64.6	95.3	66	99.3	1390	0.16333333333333333	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Charles R Henderson Elementary School	16	32	38	89.2	80.6	93.6	67	100	407	0.2866666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Albert R Sabin Elementary Magnet School	67	30	18	94.7	28.1	95	24	100	620	0.38333333333333336	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+James G Blaine Elementary School	99	76	74	96.4	2.1	96	6	88.4	923	0.83	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Julia C Lathrop Elementary School	67	58	26	90.5	113.5	95.5	29	100	83	0.5033333333333333	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Augustus H Burley Elementary School	99	78	65	96.5	0.7	95	6	97.9	572	0.8066666666666666	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+Jonathan Y Scammon Elementary School	44	21	20	95.9	8	95.3	16	100	937	0.2833333333333333	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+John C Coonley Elementary School	87	65	39	95.9	1.4	96.5	5	100	668	0.6366666666666667	80.4	8.4	1	4.5	North Center	0.3	7.5	5.2	4.5	26.2	57123	6
+Hannah G Solomon Elementary School	78	67	62	95.8	0.8	95.7	13	99	363	0.69	79.1	10.5	3	7.5	North Park	3.9	13.2	9.9	14.4	39	26576	33
+Sidney Sawyer Elementary School	57	41	39	96.8	7.4	96.4	63	100	1846	0.45666666666666667	80.4	61.4	10.8	14	Gage Park	15.8	23.4	18.2	51.5	38.8	12171	93
+Mount Greenwood Elementary School	84	58	38	96	2.9	96.1	74	98.5	909	0.6	94.5	7.7	2.2	6.9	Mount Greenwood	1	3.4	8.7	4.3	36.8	34381	16
+Talman Elementary School	99	99	99	96.2	9.2	95.5	63	100	376	0.99	80.4	61.4	10.8	14	Gage Park	15.8	23.4	18.2	51.5	38.8	12171	93
+Ludwig Van Beethoven Elementary School	40	58	59	93.7	11.4	94.7	38	98.7	411	0.5233333333333333	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+William J Onahan Elementary School	64	29	27	95.7	6.9	96.1	10	98.8	687	0.4	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+William Bishop Owen Scholastic Academy Elementary School	49	39	56	96.9	1.2	95	70	100	243	0.48	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+Daniel Webster Elementary School	48	81	66	94.8	5.7	97.2	26	100	370	0.65	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Hawthorne Elementary Scholastic Academy	92	61	56	96.9	1.2	96.5	6	100	569	0.6966666666666667	79.1	15.8	1.4	4.7	Lake View	1.1	11.4	4.7	2.6	17	60058	5
+South Loop Elementary School	84	34	36	95.3	12.7	97.2	33	100	795	0.5133333333333333	78.1	50.9	4.8	5.7	Near South Side	1.3	13.8	4.9	7.4	21.8	59077	7
+Walter Reed Elementary School	29	62	68	92.4	75.5	93.2	68	100	44	0.53	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Jacob Beidler Elementary School	63	70	58	95.4	0.7	96.6	27	100	411	0.6366666666666667	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+James R Doolittle Jr Elementary School	30	25	46	91.4	134.8	94.7	35	97.7	306	0.33666666666666667	76	34.2	13.6	16.7	Douglas	1.8	29.6	18.2	14.3	30.7	23791	47
+John Foster Dulles Elementary School	42	53	42	94.1	28.2	97.3	69	100	537	0.45666666666666667	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+Robert Emmet Elementary School	37	64	71	89.8	30.1	94.8	25	100	460	0.5733333333333334	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Hiram H Belding Elementary School	64	67	69	95	21.3	96.2	16	98.6	672	0.6666666666666666	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+Nathan R Goldblatt Elementary School	49	80	99	92.9	57.7	95.6	26	100	268	0.76	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Eli Whitney Elementary School	44	49	53	95.8	11.6	95.2	30	97.6	1133	0.4866666666666667	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Wolfgang A Mozart Elementary School	41	56	32	95.2	3.6	96.4	22	100	748	0.43	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Horace Mann Elementary School	28	31	30	92.6	44.4	94.5	46	100	472	0.2966666666666667	75.3	76.8	36.9	17.7	South Chicago	4.7	29.8	19.7	26.6	41.1	16579	75
+Agustin Lara Elementary Academy	56	45	37	95.5	10.4	95.8	61	100	556	0.46	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+John B Drake Elementary School	59	57	46	93.8	43.3	95.9	35	100	249	0.54	76	34.2	13.6	16.7	Douglas	1.8	29.6	18.2	14.3	30.7	23791	47
+Thomas Hoyne Elementary School	67	77	73	94.8	0	95.4	48	100	288	0.7233333333333334	75	39.3	19.5	17.2	Calumet Heights	2.1	11.5	20	11	44	28887	38
+Phobe Apperson Hearst Elementary School	33	31	27	92.1	25.5	95.8	56	97.9	364	0.30333333333333334	81.7	33.7	9.9	8.1	Garfield Ridge	2.6	8.8	11.3	19.3	38.1	26353	32
+Perkins Bass Elementary School	28	47	57	92.1	28.9	96.4	68	100	369	0.44	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Charles W Earle Elementary School	24	62	71	93.8	16.9	94.6	67	100	331	0.5233333333333333	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Frank I Bennett Elementary School	46	55	66	92.5	6.5	95.9	49	100	504	0.5566666666666666	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Arthur E Canty Elementary School	87	70	64	96.1	2.3	96.1	17	99.1	784	0.7366666666666667	82.7	19.9	3.7	8.6	Dunning	5.2	10.6	10	16.2	33.6	26282	28
+Samuel Gompers Fine Arts Options Elementary School	34	48	52	93.6	54.2	96	53	100	285	0.44666666666666666	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+Stephen K Hayt Elementary School	72	52	44	95.6	55.6	96	77	99.3	1000	0.56	76.1	15.1	5.8	9	Edgewater	4.1	18.2	9.2	9.7	23.8	33385	19
+Patrick Henry Elementary School	45	46	43	95.1	4.3	95.9	16	100	650	0.44666666666666666	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+William H Ryder Math & Science Specialty Elementary School	34	42	50	93	22.5	94.3	71	96.4	302	0.42	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Matthew Gallistel Elementary Language Academy	49	37	32	95.1	5.9	96.3	52	100	1408	0.3933333333333333	73.3	53	10.7	14.5	East Side	6.8	19.2	12.1	31.9	42.8	17104	64
+James Ward Elementary School	49	50	46	97.8	1.3	96.9	34	100	492	0.48333333333333334	79.1	16.2	1.8	11.6	Armour Square	5.7	40.1	16.7	34.5	38.3	16148	82
+Hanson Park Elementary School	35	34	33	95	24.4	94.9	19	100	1499	0.34	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Louis Armstrong Math & Science Elementary School	42	49	62	92.6	83.4	97.9	25	100	93	0.51	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Edward Beasley Elementary Magnet Academic Center	47	34	48	95	10.3	94.7	40	100	1365	0.43	74.9	82.6	44.6	23.2	Washington Park	5.6	42.1	28.6	25.4	42.8	13785	88
+Mariano Azuela Elementary School	54	61	81	95.5	19.7	0	65	98.7	873	0.6533333333333333	83.5	44.6	10.7	7.8	West Lawn	5.8	14.9	9.6	33.6	39.6	16907	56
+Robert H Lawrence Elementary School	19	40	51	90.7	14	95.3	51	100	371	0.36666666666666664	76.9	65.3	41.3	11.8	South Deering	4	29.2	16.3	21	39.5	14685	65
+George Washington Carver Primary School	25	33	30	90.9	15.6	94.7	54	100	546	0.29333333333333333	74.1	64.5	33	26.4	Riverdale	5.8	56.5	34.6	27.5	51.5	8201	98
+Enrico Fermi Elementary School	30	65	63	89.9	101.2	95.4	43	100	238	0.5266666666666666	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+Benjamin E Mays Elementary Academy	27	55	48	95.5	0.3	96.6	68	100	301	0.43333333333333335	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+William P Nixon Elementary School	52	70	62	95.6	3.5	95.8	20	100	1061	0.6133333333333333	77.5	69.7	12.7	12.9	Hermosa	6.9	20.5	13.1	41.6	36.4	15089	71
+Carroll-Rosenwald Specialty Elementary School	35	12	12	94.8	27.8	95.6	70	100	537	0.19666666666666666	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+John P Altgeld Elementary School	48	64	58	91.9	32.9	95.5	67	100	527	0.5666666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+John Hay Elementary Community Academy	44	49	61	92.9	30.8	97.1	25	100	554	0.5133333333333333	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Eugene Field Elementary School	42	47	37	96.8	10	96.7	1	100	375	0.42	73	40.8	7.7	7.5	Rogers Park	7.7	23.6	8.7	18.2	27.5	23939	39
+Ole A Thorp Elementary Scholastic Academy	70	47	40	96.4	25.8	95.8	17	100	834	0.5233333333333333	82.7	19.9	3.7	8.6	Dunning	5.2	10.6	10	16.2	33.6	26282	28
+Crown Community Academy of Fine Arts Center Elementary School	27	51	52	92.5	100.5	96.7	29	100	298	0.43333333333333335	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+LaSalle II Magnet Elementary School	66	36	52	95.1	5.6	94.8	24	100	609	0.5133333333333333	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Jesse Sherwood Elementary School	38	47	58	92	3.9	95.5	68	100	355	0.4766666666666667	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Joseph Jungman Elementary School	36	56	53	96.4	5.3	96.3	31	93.8	286	0.48333333333333334	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Betsy Ross Elementary School	39	51	50	88.9	64.1	93.9	40	97.9	350	0.4666666666666667	74.9	82.6	44.6	23.2	Washington Park	5.6	42.1	28.6	25.4	42.8	13785	88
+Charles Evans Hughes Elementary School	42	82	72	94.4	0	94.7	29	100	315	0.6533333333333333	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+George W Tilton Elementary School	6	30	41	91.4	65.5	95.1	26	100	321	0.25666666666666665	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Garrett A Morgan Elementary School	28	58	55	92	10	94.8	71	96.8	237	0.47	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Portage Park Elementary School	62	46	32	94.2	3.7	95.9	15	100	1139	0.4666666666666667	79.8	41.7	3.3	10.6	Portage Park	4.1	11.6	12.6	19.3	34	24336	35
+Mary Mapes Dodge Elementary Renaissance Academy	57	68	73	94.4	12.7	97.1	27	100	434	0.66	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Thomas A Hendricks Elementary Community Academy	33	67	78	91.2	61.8	95.6	37	100	307	0.5933333333333334	71.4	69.2	49.6	40	Fuller Park	3.2	51.2	33.9	26.6	44.9	10432	97
+Rodolfo Lozano Bilingual & International Center Elementary School	55	39	37	94.8	0.9	96.2	24	100	319	0.43666666666666665	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Edward Jenner Elementary Academy of the Arts	50	62	41	88.9	16	94.8	8	98.7	314	0.51	69.7	34	3.7	5.2	Near North Side	1.9	12.9	7	2.5	22.6	88669	1
+Rueben Salazar Elementary Bilingual Center	64	54	53	95.1	44.6	95.8	8	100	444	0.57	69.7	34	3.7	5.2	Near North Side	1.9	12.9	7	2.5	22.6	88669	1
+Mark Sheridan Elementary Math & Science Academy	74	53	63	96.8	1.3	97	60	95.9	535	0.6333333333333333	80.3	28.4	4.9	11.2	Bridgeport	4.5	18.9	13.7	22.2	31.3	22694	43
+William H King Elementary School	47	44	47	92.4	17.7	95.1	28	100	264	0.46	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Arna Wendell Bontemps Elementary School	33	48	59	94.2	31.2	95.8	67	100	345	0.4666666666666667	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Lionel Hampton Fine & Performing Arts Elementary School	42	34	28	95	94.9	96.6	70	100	658	0.3466666666666667	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+Federico Garcia Lorca Elementary School	53	53	58	96.8	43.8	0	21	100	860	0.5466666666666666	74.4	63.4	4.7	9.3	Avondale	6	15.3	9.2	24.7	31	20039	42
+Alexander Graham Elementary School	49	31	33	92.5	27.4	95	61	92.1	476	0.37666666666666665	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Charles N Holden Elementary School	53	50	35	94.9	4.7	96	60	100	600	0.46	80.3	28.4	4.9	11.2	Bridgeport	4.5	18.9	13.7	22.2	31.3	22694	43
+Moses Montefiore Special Elementary School	28	42	14	80.4	251.6	93.5	28	100	21	0.28	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Joseph Warren Elementary School	33	49	40	95	21.6	95.3	48	100	328	0.4066666666666667	75	39.3	19.5	17.2	Calumet Heights	2.1	11.5	20	11	44	28887	38
+Emiliano Zapata Elementary Academy	60	43	42	96.6	2.8	96.8	30	100	988	0.48333333333333334	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Telpochcalli Elementary School	42	19	22	95.4	2.7	94.7	30	96.4	285	0.27666666666666667	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Avalon Park Elementary School	32	38	32	92.1	52.1	96.4	45	97.7	398	0.34	74.5	63.9	22.1	16.6	Avalon Park	1.4	17.2	21.1	10.6	39.3	24454	41
+James Otis Elementary School	83	67	58	95.5	3.2	96.5	24	100	491	0.6933333333333334	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Ronald Brown Elementary Community Academy	31	52	33	93.8	35.6	96.3	53	98.1	283	0.38666666666666666	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+Ignance Paderewski Elementary Learning Academy	31	63	98	92.1	20.9	95.2	30	100	130	0.64	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Richard J Oglesby Elementary School	44	49	49	94.4	25.4	96.9	71	100	402	0.47333333333333333	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Martha Ruggles Elementary School	43	37	41	93.9	30.9	96.7	69	98	417	0.4033333333333333	72.3	84.3	49.7	18.9	Greater Grand Crossing	3.6	29.6	23	16.5	41	17285	66
+William P Gray Elementary School	57	44	35	95.6	5.9	95.9	15	99.4	1345	0.4533333333333333	79.8	41.7	3.3	10.6	Portage Park	4.1	11.6	12.6	19.3	34	24336	35
+William E B Dubois Elementary School	47	33	42	93.3	48.5	94.4	54	100	184	0.4066666666666667	74.1	64.5	33	26.4	Riverdale	5.8	56.5	34.6	27.5	51.5	8201	98
+Songhai Elementary Learning Institute	17	47	54	89.5	84.7	95.4	53	100	352	0.3933333333333333	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+Tarkington School of Excellence Elementary School	48	39	40	95.9	10.5	96.6	66	100	1070	0.42333333333333334	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Mary Gage Peterson Elementary School	62	49	58	95.5	10.3	96.7	13	100	860	0.5633333333333334	79.1	10.5	3	7.5	North Park	3.9	13.2	9.9	14.4	39	26576	33
+Walter L Newberry Math & Science Academy Elementary School	71	52	66	95.1	2.1	96.3	7	100	558	0.63	75.7	2.1	0.7	4.5	Lincoln Park	0.8	12.3	5.1	3.6	21.5	71551	2
+Julia Ward Howe Elementary School of Excellence	67	90	69	96	7.7	97.1	25	100	576	0.7533333333333333	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Jordan Elementary Community School	61	57	49	95.6	16.4	95.1	1	100	753	0.5566666666666666	73	40.8	7.7	7.5	Rogers Park	7.7	23.6	8.7	18.2	27.5	23939	39
+Anna R. Langford Community Academy	31	54	32	91.8	29	95.4	67	100	339	0.39	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+Jane A Neil Elementary School	42	27	28	88.9	5	94.6	44	100	306	0.3233333333333333	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Florence B Price Elementary School	20	37	46	90	156.6	95.2	39	100	112	0.3433333333333333	77.6	25.7	15.2	11	Kenwood	2.4	21.7	15.7	11.3	35.4	35911	26
+Mancel Talcott Elementary School	63	59	71	95.8	3.2	96.9	24	100	580	0.6433333333333333	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Myra Bradwell Communications Arts & Sciences Elementary School	31	41	50	92.1	75.9	96.4	43	100	775	0.4066666666666667	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+George B Swift Elementary Specialty School	61	62	60	96.3	6	95.8	77	98.8	709	0.61	76.1	15.1	5.8	9	Edgewater	4.1	18.2	9.2	9.7	23.8	33385	19
+Brighton Park Elementary School	55	49	43	96.3	2.6	95.9	58	100	691	0.49	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Dunne Technology Academy	46	65	71	94.6	22.8	96.4	49	100	310	0.6066666666666667	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Newton Bateman Elementary School	55	50	47	96.2	0.2	96.7	16	99.1	1015	0.5066666666666667	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+Frank W Reilly Elementary School	48	33	34	97	8.7	96.7	21	100	1195	0.38333333333333336	74.4	63.4	4.7	9.3	Avondale	6	15.3	9.2	24.7	31	20039	42
+Ella Flagg Young Elementary School	31	44	50	94.3	3	95.4	25	100	1111	0.4166666666666667	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Orozco Fine Arts & Sciences Elementary School	55	34	44	97.6	1.4	96.4	31	100	636	0.44333333333333336	80.8	49	11.7	13	Lower West Side	9.6	25.8	15.8	40.7	32.6	16444	76
+Ana Roque de Duprey Elementary School	57	12	14	95.4	77.5	95.6	24	100	114	0.27666666666666667	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Charles R Darwin Elementary School	58	44	34	95.6	33.8	96.2	22	100	622	0.4533333333333333	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Edgebrook Elementary School	99	51	53	96.9	3.4	96.6	12	100	468	0.6766666666666666	79.3	6.3	3.3	5.5	Forest Glen	1.1	7.5	6.8	4.9	40.5	44164	11
+Burnside Elementary Scholastic Academy	51	58	70	94.9	8.9	94.9	44	100	766	0.5966666666666667	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Michael M Byrne Elementary School	63	35	38	94.6	51.8	95.8	56	94	705	0.4533333333333333	81.7	33.7	9.9	8.1	Garfield Ridge	2.6	8.8	11.3	19.3	38.1	26353	32
+James Hedges Elementary School	22	22	24	95.4	48.8	96.5	61	100	845	0.22666666666666666	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Peter A Reinberg Elementary School	60	35	30	95.8	8.2	95.7	15	99.5	832	0.4166666666666667	79.8	41.7	3.3	10.6	Portage Park	4.1	11.6	12.6	19.3	34	24336	35
+Turner-Drew Elementary Language Academy	56	48	51	95.8	24	95.2	49	100	373	0.5166666666666667	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Simon Guggenheim Elementary School	30	38	22	90.9	29.5	93.1	68	100	291	0.3	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+John C Dore Elementary School	74	69	79	95.6	10.8	96.7	64	96.2	590	0.74	85.8	38.7	9.4	9.6	Clearing	2.7	8.9	9.5	18.8	37.6	25113	29
+Luke O'Toole Elementary School	5	33	40	89.2	26.7	94.6	67	100	511	0.26	63.6	116.9	47.2	34.7	West Englewood	4.8	34.4	35.9	26.3	40.7	11317	89
+William H Seward Communication Arts Academy Elementary School	40	38	41	95.7	14.4	95.7	61	100	896	0.39666666666666667	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Helen M Hefferan Elementary School	29	26	63	93.8	13.4	95.9	26	100	259	0.3933333333333333	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Everett McKinley Dirksen Elementary School	44	12	1	95.9	2.7	96.2	76	93.8	786	0.19	82	15.9	5.6	4.7	O'Hare	3.6	15.4	7.1	10.9	30.3	25828	24
+John W Garvy Elementary School	60	50	51	95.3	10.2	96.5	10	97.3	720	0.5366666666666666	89.4	3.4	4.7	7.3	Norwood Park	2	5.4	9	11.5	39.5	32875	21
+Richard Edwards Elementary School	48	38	41	95.3	10.3	96.8	57	96.1	1503	0.42333333333333334	74.3	50.3	16.6	14.2	Archer Heights	8.5	14.1	16.5	35.9	39.2	16134	67
+Joshua D Kershaw Elementary School	62	69	56	94.8	8.2	96	68	100	262	0.6233333333333333	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Frank L Gillespie Elementary School	27	30	45	91.9	2.1	96.3	49	98.8	609	0.34	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Beulah Shoesmith Elementary School	45	40	39	94.7	0.3	94.8	39	100	325	0.41333333333333333	77.6	25.7	15.2	11	Kenwood	2.4	21.7	15.7	11.3	35.4	35911	26
+Norman A Bridge Elementary School	67	49	35	95.6	6.6	96.6	17	98.4	1004	0.5033333333333333	82.7	19.9	3.7	8.6	Dunning	5.2	10.6	10	16.2	33.6	26282	28
+George Manierre Elementary School	43	49	40	91	44	94.8	8	100	396	0.44	69.7	34	3.7	5.2	Near North Side	1.9	12.9	7	2.5	22.6	88669	1
+Genevieve Melody Elementary School	61	65	77	92.1	26	96	26	94.5	315	0.6766666666666666	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+Ambrose Plamondon Elementary School	45	32	28	96.9	0.6	96.6	29	100	171	0.35	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Oscar F Mayer Elementary School	67	35	46	95	11.4	95.2	7	100	605	0.49333333333333335	75.7	2.1	0.7	4.5	Lincoln Park	0.8	12.3	5.1	3.6	21.5	71551	2
+John Charles Haines Elementary School	32	37	37	98.4	0.3	96.2	34	96.9	664	0.35333333333333333	79.1	16.2	1.8	11.6	Armour Square	5.7	40.1	16.7	34.5	38.3	16148	82
+Matthew A Henson Elementary School	37	34	22	90.9	13.2	95.7	29	97.9	271	0.31	75.8	108.9	46.7	18.5	North Lawndale	7.4	43.1	21.2	27.6	42.7	12034	87
+Woodlawn Community Elementary School	70	80	66	93.9	12.4	94.3	42	100	238	0.72	73.3	51.1	31.1	17.3	Woodlawn	2.9	30.7	23.4	16.5	36.1	18672	58
+Jose De Diego Elementary Community Academy	57	37	40	95	29	96.8	24	100	869	0.44666666666666666	75.5	49.2	8.5	6	West Town	2.3	14.7	6.6	12.9	21.7	43198	10
+Harold Washington Elementary School	28	45	63	96.1	3.1	96.2	47	100	549	0.4533333333333333	68.4	68.7	70.3	23.4	Burnside	6.8	33	18.6	19.3	42.7	12515	79
+LaSalle Elementary Language Academy	99	62	52	96.8	7	97.6	7	100	576	0.71	75.7	2.1	0.7	4.5	Lincoln Park	0.8	12.3	5.1	3.6	21.5	71551	2
+DeWitt Clinton Elementary School	47	47	52	95.3	14.8	95.4	2	100	1139	0.4866666666666667	71.1	29.9	5.8	7.9	West Ridge	7.8	17.2	8.8	20.8	38.5	23040	46
+James B Farnsworth Elementary School	55	40	38	94.2	1.7	95.6	11	100	574	0.44333333333333336	82.9	28.6	4.8	9	Jefferson Park	2.7	8.6	12.4	13.4	35.5	27751	25
+John Palmer Elementary School	75	61	68	96.3	12.8	94.8	14	99.2	919	0.68	73.3	44.5	4.7	9	Albany Park	11.3	19.2	10	32.9	32	21323	53
+Elizabeth H Sutherland Elementary School	86	64	59	95.6	6.8	96.2	72	96	762	0.6966666666666667	84.8	11.9	3.5	7.8	Beverly	0.9	5.1	8	3.7	40.5	39523	12
+John B Murphy Elementary School	80	75	59	95.6	1.9	96.3	16	100	638	0.7133333333333334	79.9	37	4.1	10.3	Irving Park	6.3	13.1	10	22.4	31.6	27249	34
+Charles Sumner  Math & Science Community Acad Elementary School	41	44	48	93.9	12.3	96.9	26	100	430	0.44333333333333336	71.4	114.9	40	25.2	West Garfield Park	9.4	41.7	25.8	24.5	43.6	10934	92
+George Washington Elementary School	58	33	43	95.5	5.6	95.9	52	99	813	0.44666666666666666	73.3	53	10.7	14.5	East Side	6.8	19.2	12.1	31.9	42.8	17104	64
+Phillip Murray Elementary Language Academy	66	34	37	95.6	3.5	95.9	41	100	533	0.45666666666666667	80.3	7.6	5.8	6.9	Hyde Park	1.5	18.4	8.4	4.3	26.2	39056	14
+Sauganash Elementary School	99	76	61	96.3	1.5	95.4	12	92.9	549	0.7866666666666666	79.3	6.3	3.3	5.5	Forest Glen	1.1	7.5	6.8	4.9	40.5	44164	11
+Wildwood Elementary School	99	77	67	96.2	1	95.7	12	92.3	414	0.81	79.3	6.3	3.3	5.5	Forest Glen	1.1	7.5	6.8	4.9	40.5	44164	11
+Crispus Attucks Elementary School	45	64	57	95.2	12.5	93.5	38	100	274	0.5533333333333333	74.2	54.8	32.1	20.6	Grand Boulevard	3.3	29.3	24.3	15.9	39.5	23472	57
+John H Hamline Elementary School	33	29	43	94.4	7.5	95.7	61	100	679	0.35	75.9	94.3	26.6	17.4	New City	11.9	29	23	41.5	38.9	12765	91
+Oliver S Westcott Elementary School	30	48	54	92.6	31.5	94.8	44	100	413	0.44	72.5	68.2	45.2	19	Chatham	3.3	27.8	24	14.5	40.3	18881	60
+Nathan S Davis Elementary School	43	41	46	95.1	2.4	95.9	58	94	1032	0.43333333333333335	82.7	58.1	11.1	11.2	Brighton Park	14.4	23.6	13.9	45.1	39.3	13089	84
+Leif Ericson Elementary Scholastic Academy	33	49	52	94.7	20.8	95.1	27	100	518	0.44666666666666666	73.2	93.2	38.4	16.4	East Garfield Park	8.2	42.4	19.6	21.3	43.2	12961	83
+Paul Cuffe Math-Science Technology Academy Elementary School	51	45	54	93.6	46.9	95.4	71	98.5	512	0.5	71.8	83.1	37.6	24.2	Auburn Gresham	4	27.6	28.3	18.5	41.9	15528	74
+Robert L Grimes Elementary School	79	56	59	95.2	5	95.6	64	100	486	0.6466666666666666	85.8	38.7	9.4	9.6	Clearing	2.7	8.9	9.5	18.8	37.6	25113	29
+Edward White Elementary Career Academy	27	44	48	93.8	31	96.7	53	100	138	0.39666666666666667	71.3	67.8	43.9	17	West Pullman	3.3	25.9	19.4	20.5	42.1	16563	62
+Benjamin Banneker Elementary School	36	35	58	91.3	26.9	93.9	68	100	302	0.43	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Alfred David Kohn Elementary School	19	22	13	90.1	31.2	94.2	49	96.4	428	0.18	69	79.7	40.9	17.8	Roseland	2.5	19.8	20.3	16.9	41.2	17949	52
+Francis M McKay Elementary School	23	37	54	93.5	9.1	95.1	66	100	891	0.38	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Gerald Delgado Kanoon Elementary Magnet School	44	48	48	95.9	3.3	95.6	30	100	713	0.4666666666666667	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Charles Gates Dawes Elementary School	44	27	30	95.7	35.6	95.6	70	99.5	1032	0.33666666666666667	82.4	38.3	12.4	8.8	Ashburn	4	10.4	11.7	17.7	36.9	23482	37
+Carrie Jacobs Bond Elementary School	54	67	63	91.7	18.8	94.3	68	96.9	343	0.6133333333333333	69.7	105.3	45.1	21.3	Englewood	3.8	46.6	28	28.5	42.5	11888	94
+Friedrich Ludwig Jahn Elementary School	72	60	59	94.7	19.9	94.7	5	100	495	0.6366666666666667	80.4	8.4	1	4.5	North Center	0.3	7.5	5.2	4.5	26.2	57123	6
+Pulaski International Academy Elmentary School	68	54	57	96.1	1.7	96.2	22	100	864	0.5966666666666667	78.2	66.1	8.6	7.5	Logan Square	3.2	16.8	8.2	14.8	26.2	31908	23
+Thomas A Edison Regional Gifted Center Elementary School	91	64	56	96.6	1.9	96.3	14	100	269	0.7033333333333334	73.3	44.5	4.7	9	Albany Park	11.3	19.2	10	32.9	32	21323	53
+Mary Lyon Elementary School	55	42	38	95.9	3.7	97	19	99.3	1423	0.45	74.1	68.2	7	11.5	Belmont Cragin	10.8	18.7	14.6	37.3	37.3	15461	70
+Claremont Academy Elementary School	36	50	51	92.5	64.2	96.2	66	100	531	0.45666666666666667	78.4	67.4	22.4	11.9	Chicago Lawn	7.6	27.9	17.1	31.2	40.6	13231	80
+Horatio May Elementary Community Academy	42	47	56	91.9	40	96.4	25	98.2	458	0.48333333333333334	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Spencer Technology Academy	35	57	71	92.5	24.1	96	25	100	811	0.5433333333333333	72.9	81.8	34.4	21	Austin	6.3	28.6	22.6	24.4	37.9	15957	73
+Little Village Elementary School	45	52	66	96.7	3.2	96.7	30	93.9	842	0.5433333333333333	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
+Edward A Bouchet Math & Science Academy Elementary School	33	55	50	92.9	28	95.9	43	98.3	783	0.46	71.9	65.9	33.4	17.7	South Shore	2.8	31.1	20	14	35.7	19398	55
+Josephine C Locke Elementary School	57	49	56	95.5	2.2	95.1	18	100	1317	0.54	77.6	61.5	8.6	10.8	Montclaire	8.1	15.3	13.8	23.5	38.6	22014	50
+William H Brown Elementary School	36	58	78	92.8	59	94.7	28	100	217	0.5733333333333334	77.6	36.7	12.7	10.7	Near West Side	3.8	20.6	10.7	9.6	22.2	44689	15
+Helen Peirce International Studies Elementary School	58	32	22	96.7	5.8	95.8	77	100	977	0.37333333333333335	76.1	15.1	5.8	9	Edgewater	4.1	18.2	9.2	9.7	23.8	33385	19
+Robert A Black Magnet Elementary School	68	63	58	96	0.4	93.7	48	100	474	0.63	75	39.3	19.5	17.2	Calumet Heights	2.1	11.5	20	11	44	28887	38
+Daniel J Corkery Elementary School	39	31	29	94.7	18.1	97.2	30	100	631	0.33	85.1	77.5	11.1	11.5	South Lawndale	15.2	30.7	15.8	54.8	33.8	10402	96
